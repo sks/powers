@@ -14,7 +14,8 @@ When you want to create, migrate, run, debug and identify optimization opportuni
 
 Whenever you are asked to perform a task related to any of the following scenarios - ensure you load and read the appropriate markdown file mentioned
 
-- Creating a new WDL, Nextflow or CWL workflow -> use `./steering_files/workflow-development.md`
+- Creating a workflow from a remote Git repository URL (GitHub, GitLab, Bitbucket, Azure DevOps) -> use `./steering_files/git-integration.md` (takes precedence over workflow-development.md)
+- Creating a new WDL, Nextflow or CWL workflow from local files -> use `./steering_files/workflow-development.md`
 - Onboarding an existing WDL workflow ensuring compatibility with HealthOmics -> use `.\steering_files/migration-guide-for-wdl.md`
 - Onboarding an existing Nextflow workflow ensuring compatibility with HealthOmics -> use `./steering_files/migration-guide-for-wdl.md`
 - Modifying, updating, or fixing an existing HealthOmics workflow -> use `./steering_files/workflow-versioning.md`
