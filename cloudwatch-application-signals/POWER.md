@@ -1,6 +1,6 @@
 ---
 name: "cloudwatch-application-signals"
-displayName: "AWS Application Signals"
+displayName: "Amazon CloudWatch Application Signals"
 description: "Monitor service health, analyze SLO compliance, and perform root cause analysis with distributed tracing and audit capabilities"
 keywords: ["application-signals", "aws", "observability", "apm", "slo", "traces", "monitoring", "cloudwatch", "audit"]
 author: "AWS"
@@ -40,7 +40,7 @@ After configuration, try: *"List all my monitored services"*
 
 # Overview
 
-The AWS Application Signals Power provides comprehensive tools for monitoring and analyzing AWS services using Application Signals. Perform service health audits, track SLO compliance, investigate performance issues, and conduct root cause analysis with distributed tracing.
+The Amazon CloudWatch Application Signals Power provides comprehensive tools for monitoring and analyzing AWS services using Application Signals. Perform service health audits, track SLO compliance, investigate performance issues, and conduct root cause analysis with distributed tracing.
 
 **Key capabilities:**
 - **Service Health Auditing** - Comprehensive health assessment with actionable insights
